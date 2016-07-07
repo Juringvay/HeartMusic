@@ -1,0 +1,12 @@
+INPUT(
+./temp\obj\main.o
+./temp\obj\mainwidget.o
+./temp\obj\logindialog.o
+./temp\obj\windows.o
+./temp\obj\message_box.o
+./temp\obj\qrc_image.o
+./temp\obj\moc_mainwidget.o
+./temp\obj\moc_logindialog.o
+./temp\obj\moc_windows.o
+./temp\obj\moc_message_box.o
+);
